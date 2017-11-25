@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01421536-f9b3-4c8e-bceb-e751bca40eb0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madLibs.css" afterPath="$PROJECT_DIR$/madLibs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/madLibs.html" afterPath="$PROJECT_DIR$/madLibs.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />

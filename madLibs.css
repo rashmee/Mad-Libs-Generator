@@ -1,9 +1,9 @@
-#theHeader {
+.theHeader {
     width: 50%;
     margin: 0 auto;
 }
 
-#madLibsOpts {
+.madLibs {
     width: 50%;
     margin: 0 auto;
 }
